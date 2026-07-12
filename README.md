@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I'm currently working on<br><br>Machine Learning Projects<br>Data Structures & Algorithms (LeetCode)<br>AI-powered Web Applications using FastAPI<br><br>👯 I'm looking to collaborate on<br><br>Open Source AI/ML Projects<br>Python Development<br>Data Science & Analytics Projects<br><br>🤝 I'm looking for help with<br><br>MLOps & Model Deployment<br>Open Source Contributions<br>Advanced Machine Learning<br><br>🌱 I'm currently learning<br><br>Deep Learning<br>Generative AI<br>MLOps<br>FastAPI<br>System Design<br><br>💬 Ask me about<br><br>Python<br>Machine Learning<br>Data Analysis<br>SQL<br>DSA<br>Git & GitHub
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/komal._.pandey_098) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/komal-pandey04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:04komalpandey@gmail.com) 
 
