@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on<br><br>Machine Learning Projects, Data Structures & Algorithms (LeetCode), AI-powered Web Applications using FastAPI<br>👯 I'm looking to collaborate on Open Source AI/ML Projects ,Python Development, Data Science & Analytics Projects<br>🤝 I'm looking for help with<br><br>MLOps & Model Deployment<br>Open Source Contributions<br>Advanced Machine Learning<br><br>🌱 I'm currently learning<br><br>Deep Learning<br>Generative AI<br>MLOps<br>FastAPI<br>System Design<br><br>💬 Ask me about<br><br>Python<br>Machine Learning<br>Data Analysis<br>SQL<br>DSA<br>Git & GitHub
+🔭 I'm currently working on<br><br>Machine Learning Projects, Data Structures & Algorithms (LeetCode), AI-powered Web Applications using FastAPI<br>👯 I'm looking to collaborate on Open Source AI/ML Projects ,Python Development, Data Science & Analytics Projects<br>🤝 I'm looking for help with<br><br>MLOps & Model Deployment, Open Source Contributions, Advanced Machine Learning.<br>🌱 I'm currently learning<br><br>Deep Learning<br>Generative AI<br>MLOps<br>FastAPI<br>System Design<br><br>💬 Ask me about<br><br>Python<br>Machine Learning<br>Data Analysis<br>SQL<br>DSA<br>Git & GitHub
 
 
 ## 🌐 Socials:
